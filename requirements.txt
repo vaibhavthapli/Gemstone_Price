@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+dill
+flask
+flask-cors
+lime
+python-dotenv
+lazypredict
+
+-e .
