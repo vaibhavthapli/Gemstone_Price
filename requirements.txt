@@ -9,5 +9,7 @@ flask-cors
 lime
 python-dotenv
 lazypredict
+mysql-connector-python
+pymysql
 
 -e .
